@@ -13,6 +13,7 @@
     "axios": "^1.4.0",
     "codemirror": "^6.0.1",
     "formik": "^2.4.3",
+    "gsap": "^3.14.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-hot-toast": "^2.4.1",
@@ -56,5 +57,10 @@
     "@testing-library/dom": "^9.3.1",
     "@testing-library/jest-dom": "^6.0.1",
     "@testing-library/react": "^14.0.0"
-  }
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
